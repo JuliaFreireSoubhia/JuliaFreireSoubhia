@@ -2,8 +2,6 @@
 
 💻 **Desenvolvedora em formação | Desenvolvimento de Sistemas**
 
-Sou estudante de **Desenvolvimento de Sistemas**, interessada em desenvolvimento de software, tecnologia e criação de projetos.
-
 Atualmente, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e novas tecnologias, sempre buscando colocar o aprendizado em prática através de projetos acadêmicos e pessoais.
 
 ---
